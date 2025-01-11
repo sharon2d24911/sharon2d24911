@@ -7,7 +7,7 @@
 
 ###
 
-<h4 align="left">💻Languages:</h4>
+<p align="left">💻Languages:</h4>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h4 align="left">⚙️Tools:</h4>
+<p align="left">⚙️Tools:</h4>
 
 ###
 
