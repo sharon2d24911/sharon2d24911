@@ -3,7 +3,6 @@
 ###
 
 * <p align="left">🌱 I’m currently a Computing Science student at the University of Alberta</p>
-* <p align="left">🤝 I’m looking to connect with people for hackathons and building projects</p>
 
 ###
 
