@@ -2,7 +2,7 @@
 
 ###
 
-* <p align="left">🌱 I’m currently a Computing Science student at the University of Alberta</p>
+* <p align="left">🌱 I’m currently a 4th year Computing Science student</p>
 
 ###
 
